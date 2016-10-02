@@ -6,7 +6,5 @@ repositories {
 
 dependencies {
     compile 'javax:javaee-api:7.0'
-    // https://mvnrepository.com/artifact/org.json/json
     compile group: 'org.json', name: 'json', version: '20160212'
-
 }

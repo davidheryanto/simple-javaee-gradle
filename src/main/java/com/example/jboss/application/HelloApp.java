@@ -1,3 +1,5 @@
+package com.example.jboss.application;
+
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
 
